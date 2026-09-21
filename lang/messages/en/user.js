@@ -1,5 +1,5 @@
 const MESSAGES = {
-  labTitle: "Lab 2",
+  labTitle: "Lab 2: JSON, Object Constructor, localStorage",
   studentName: "Hailey Kim",
   writer: "writer",
   reader: "reader",

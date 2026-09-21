@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px 40px;
+}
+
+.time {
+  text-align: right;
+  font-size: 13px;
+}
+
+.link {
+  margin-right: 15px;
+}
+
+.button {
+  border: none;
+  border-radius: 4px;
+  padding: 6px 18px;
+  color: white;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.add-button {
+  background-color: #70ad47;
+}
+
+.remove-button {
+  background-color: #ed7d31;
+  align-self: center;
+}
+
+.back-button {
+  background-color: #808080;
+}
+
+.note-row {
+  display: flex;
+  gap: 30px;
+}
+
+.note {
+  width: 250px;
+  height: 90px;
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #4472c4;
+  color: white;
+  border: none;
+  font-family: inherit;
+  font-size: 15px;
+  overflow-y: auto;
+  white-space: pre-wrap;
+  resize: none;
+}
+
+.back-area {
+  margin-top: 40px;
+}
